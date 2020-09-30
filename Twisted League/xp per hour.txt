@@ -1,0 +1,350 @@
+# Thieving #
+(No ardy diary perk)
+Success = 2 tick
+Fail = 10 tick
+
+Men/women
+Lvl 1: 7.8k xp/h, 2.9k gp/h, 405 hp/h
+Lvl 10: 8.3k xp/h, 3.1k gp/h, 391 hp/h
+Lvl 20: 9.1k xp/h, 3.4k gp/h, 373 hp/h
+Lvl 30: 9.8k xp/h, 3.7k gp/h, 354 hp/h
+Lvl 40: 10.7k xp/h, 4k gp/h, 333 hp/h
+Lvl 50: 11.6k xp/h, 4.4k gp/h, 310 hp/h
+Lvl 60: 12.7k xp/h, 4.7k gp/h, 284 hp/h
+Lvl 70: 13.8k xp/h, 5.2k gp/h, 254 hp/h
+Lvl 80: 15.2k xp/h, 5.7k gp/h, 220 hp/h
+Lvl 90: 16.7k xp/h, 6.3k gp/h, 182 hp/h
+Lvl 99: 18.3k xp/h, 6.9k gp/h, 143 hp/h
+Source: Wiki
+
+Cake stall
+Lvl 5+: 19.2k xp/h
+Source: Personal test
+
+Cake stall (banking cakes)
+Lvl 5+: 14k xp/h, 736 cakes/h
+Source: Personal test
+
+Fruit stall (double stalls)
+Lvl 25+: 42.8k xp/h
+Source: Personal test
+
+Fruit stall (single stall, banking all)
+Lvl 25+: 28.5k xp/h, 1k fruit/h
+Source: Personal test
+
+Guard
+Lvl 40: 22.9k xp/h, 14.7k gp/h, 1k hp/h
+Lvl 50: 29.3k xp/h, 18.8k gp/h, 949 hp/h
+Lvl 60: 37.4k xp/h, 24k gp/h, 880 hp/h
+Lvl 70: 47.8k xp/h, 30.7k gp/h, 791 hp/h
+Lvl 80: 61.8k xp/h, 39.6k gp/h, 672 hp/h
+Lvl 90: 81.3k xp/h, 52.1k gp/h, 505 hp/h
+Lvl 99: 107k xp/h, 68.5k gp/h, 286 hp/h
+Source: Wiki
+
+Master farmer
+Lvl 40: 28.6k xp/h, 1.4k hp/h
+Lvl 50: 34.6k xp/h, 1.3k hp/h
+Lvl 60: 42k xp/h, 1.2k hp/h
+Lvl 70: 51.2k xp/h, 1.1k hp/h
+Lvl 80: 63.1k xp/h, 920 hp/h
+Lvl 90: 78.8k xp/h, 700 hp/h
+Lvl 99: 98.2k xp/h, 430 hp/h
+Source: Wiki
+
+Master farmer seeds
+Limpwurt:    1 every 3.7k xp
+Guam:        1 every 2.8k xp
+Marrentill:  1 every 4.1k xp
+Tarromin:    1 every 6k xp
+Harralander: 1 every 8.9k xp
+Ranarr:      1 every 13k xp
+Toadflax:    1 every 19k xp
+Irit:        1 every 28k xp
+Avantoe:     1 every 40.7k xp
+Kwuarm:      1 every 59.7k xp
+Snapdragon:  1 every 89.6k xp
+Cadantine:   1 every 128k xp
+Lantadyme:   1 every 179k xp
+Torstol:     1 every 448k xp
+Source: Wiki
+
+Stealing booty from Piscarilius house
+Req: 49 thieving, lockpick, 75% favour, quest for tele
+Lvl 50: 146k xp/h
+Lvl 60: 167k xp/h
+Lvl 70: 188k xp/h
+Lvl 80: 209k xp/h
+Lvl 90: 230k xp/h
+Lvl 99: 250k xp/h
+Estimated profit 34k gp/h
+Estimated 53 teles/h
+Source: Woox guide
+
+Thieving from chests in lizardman shaman cave
+Req: 64+ thieving
+Lvl 64: 65k xp/h
+Lvl 99: 150k xp/h
+Esm. 15 uncut sapphire/h, 15 uncut ruby/h, 22k gp/h, 130 xeric fabric/h (3k crafting xp), 35 of each bolt tip/h, 20 seeds/h, 140 lizardman fangs/h, 5 medium clues/h, 1.8 xerics talismans/h
+Source: 10 min personal test at 64 and 99 thieving
+
+-----
+
+# Crafting #
+
+Pick and spin flax
+Lvl 10+: 8.4k xp/h (560 bowstrings/h)
+Source: Personal test
+
+-----
+
+# Hunter #
+
+Raids bats:
+Lvl 1: 2.1k xp/h
+Source: Personal 5 minute test
+
+Crimson swift:
+Lvl 3: 2k xp/h
+Source: Personal 6 minute test
+
+-----
+
+# Fishing #
+
+Shrimp:
+Lvl 1-3 (5 ticking): 2k xp/h
+Lvl 3-7 (2 ticking): 5.9k xp/h
+Source: Personal test
+
+-----
+
+# Mining #
+
+Tin/copper (bronze pickaxe):
+Lvl 1-6: 5.4k xp/h
+Source: Personal 6 min test
+
+-----
+
+# Smithing #
+
+Smelt iron ore:
+500 bars/h, 6.3k xp/h (or double with ring of forging)
+
+Smith iron knives:
+800 bars/h, 20k xp/h
+
+Smith iron platebodies:
+350 platebodies/h, 43.8k xp/h
+
+-----
+
+# Fletching #
+
+2 tick willows + fletch willow longs with rune axe in wc guild:
+Lvl 60-70: 51.8k wc xp/h, 31.9k fletch xp/h
+Source: 10 min personal test
+
+-----
+
+# Farming #
+
+Raking weed:
+Lvl 3: 1.7k xp/h
+Source: Personal 2 minute test
+
+Planting + harvesting potatoes
+Lvl 3: Pretty bad xp/h
+
+-----
+
+# Firemaking #
+
+Ice demon braziers:
+Lvl 15-29 fm, 15-22 wc, bronze axe: 32.5k fm xp/h, 10.6k wc xp/h
+Source: Personal 14 min test
+Lvl 31-35 fm, 25-27 wc, steel axe: 43k fm xp/h, 12.3k wc xp/h
+Source: Personal 10 min test
+
+Oak trees:
+Lvl 29-30 fm, 22-23 wc, bronze axe: 15k fm xp/h, 9.4k wc xp/h
+Source: Personal 6 min test
+Lvl 30-31 fm, 23-25 wc, steel axe: 20.4k fm xp/h, 12.8k wc xp/h
+Source: Personal 6 min test
+
+-----
+
+# Slayer #
+
+Unlocks:
+1st: Broad fletching (300 pts)
+2nd: Lizardmen (75 pts)
+3rd: Superior monsters (150 pts)
+4rd: Red dragons (50 pts)
+5th: Rune pouch (750 pts)
+6th: Extend dust devils (100 pts)
+7th: Herb sack (750 pts)
+
+-----
+
+# Piscarilius #
+
+Digging sandworms
+Req: 30% favour, 15 hunter
+163%? favour/h
+8.1k hunter xp/h
+257 buckets of sand/h
+Costs 2.1k gp/h
+Can profit 600-700 gp every 5 mins
+Source: Tested at lvl 99 hunter
+
+Delivering fish
+Req: 15 fishing, 15% piscarilius favour
+20%? favour/h
+12.7k fishing xp/h
+Source: Personal test
+
+-----
+
+# Shayzien #
+
+Healing soldiers
+~100% favour/h
+Source: Personal test
+
+-----
+
+# Hosidius #
+
+Ploughing
+21% favour/h
+1k crafting xp/h
+550 farming xp/h
+Source: 14 minute personal test
+
+-----
+
+# Quests #
+
+Client of Kourend
+10-15 min quest (no teles, staminas)
+
+The Queen of Thieves
+7-10 min quest (no teles)
+
+The Depths of Despair
+~15 min quest (no teles, staminas)
+
+Tale of the Righteous
+?
+
+The Ascent of Arceuus
+?
+
+The Forsaken Tower
+?
+
+-----
+
+Training methods:
+
+Hunter:
+1-15: Client of kourend (10-15 min)
+15-32: Sandworms (30 mins?)
+32-35: The Ascent of Arceuus
+35-53: Areal fishing
+53-87: Chinchompas
+87-99: Areal fishing/chinchompas
+
+Fishing:
+1-15: 2t shrimp
+15-20: Fish barrels
+20-43: Fly fishing
+43-58: Areal fishing
+58-91: Barbarian fishing
+91-99: Areal fishing/barb fishing
+
+Agility:
+15-60+: Barbarian fishing
+60?-99: Wintertodt
+
+Firemaking:
+1-50: Ice demon
+50-99: Wintertodt
+
+Thieving:
+1-5: Men/women (36 sec)
+5-20: Steal cakes (6-7 min, receive ~80 cakes)
+20-30: Queen of Thieves
+30-49: Fruit stalls (26? min)
+49-99: Steal booty in Piscarilius
+Alternatively 80?-99: Stone chests
+
+Smithing:
+1-15: 26 bronze bars
+15-35: Iron bars
+35-50: Iron/steel bars
+50-70: Iron/steel/mithril bars
+70-99: Iron/steel/mithril/adamant bars (from blast mining and raids probably)
+
+Cooking:
+1-25: shrimp/chicken/sardine
+25-99: Mess hall
+
+Farming:
+1-15: Client of kourend
+15-31: Allotment/flowers/herbs/supercompost
+31-75?: Tithe farm
+75+: Farming contracts/tithe farm
+
+Herblore:
+3-99: Slayer/farming contracts/raids
+
+Construction:
+1-40?: Wintertodt
+40?-99: Oak planks (+ whatever teak and mahogany planks you receive from drops)
+
+Runecrafting:
+1-15: The Ascent of Arceuus
+15-99: Arceuus library
+
+Woodcutting:
+1-35?: Ice demon
+35-65?: Wintertodt
+65?-94?: 3t oaks (max 43k logs, for construction)
+94?-99: 2t willows
+
+Fletching:
+1-10: Arrow shafts
+10-70?: Wintertodt
+70?-99: Willow longbows (u)/broad arrows
+
+Mining:
+1-20: Copper + tin (for 15 smithing)
+20-80?: Iron ore
+80?-99: Blast mine
+
+Crafting:
+1-59?: Molten glass + blow it
+59?-73: Gems/jewelery/raids
+73-99: Gems/jewelery/raids/red d hide
+
+Magic:
+1-13: Wind strike whatever
+13-60?: Fire strike fire giants for rune scim
+60?-99: Arceuus library/raids
+
+Ranged:
+1-45: Iron knives
+45-61: Chins
+61-99: Broad bolts (slayer/raids)/chins
+
+Melee:
+1-99: Slayer
+
+Prayer:
+1-43: Slayer/hill giants
+43-99: Slayer/red dragons/hydras
+
