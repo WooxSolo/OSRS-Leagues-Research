@@ -207,6 +207,35 @@ Lvl 90: 208.5k xp/h, 124.1k gp/h, 310 dmg/h
 Lvl 95+: 252.0k xp/h, 150.0k gp/h, 0 dmg/h
 Source: https://oldschool.runescape.wiki/w/Knight_of_Ardougne and calculated
 
+Pickpocket vyres
+Without ardy diary:
+Lvl 82: 116.6k xp/h, 107.3k gp/h, 2620 dmg/h
+Lvl 90: 133.5k xp/h, 122.9k gp/h, 2565 dmg/h
+Lvl 99: 154.4k xp/h, 142.1k gp/h, 2496 dmg/h
+With ardy diary:
+Lvl 82: 135.0k xp/h, 124.3k gp/h, 2560 dmg/h
+Lvl 90: 155.7k xp/h, 143.4k gp/h, 2492 dmg/h
+Lvl 99: 182.3k xp/h, 167.8k gp/h, 2405 dmg/h
+With ardy diary + thieving cape:
+Lvl 99: 217.6k xp/h, 200.3k gp/h, 2290 dmg/h
+1 blood shard every ~7h (1 every 1.5m xp)
+Source: https://oldschool.runescape.wiki/w/Vyre
+
+Pickpocket Tzhaars
+Without ardy diary:
+Lvl 91: 85.7k xp/h, 4.1k tokkul/h, 1736 dmg/h
+Lvl 99: 131.0k xp/h, 6.3k tokkul/h, 1387 dmg/h
+With ardy diary:
+Lvl 91: 107.6k xp/h, 5.2k tokkul/h, 1567 dmg/h
+Lvl 99: 173.0k xp/h, 8.3k tokkul/h, 1061 dmg/h
+With ardy diary + thieving cape:
+Lvl 99: 245.5k xp/h, 11.8k tokkul/h, 500 dmg/h
+~26 uncut sapphire/h (1 every 4k xp)
+~21 uncut emerald/h (1 every 5k xp)
+~16 uncut ruby/h (1 every 6.7k xp)
+~5.3 uncut diamond/h (1 every 20.1k xp)
+Source: https://oldschool.runescape.wiki/w/TzHaar-Hur
+
 -----
 
 # Woodcutting #
@@ -319,17 +348,32 @@ Tin/copper (bronze pickaxe):
 Lvl 1-6: 5.4k xp/h
 Source: Personal 6 min test from TL
 
-Gem mining (at lvl 99 with 4-ticking, need glory btw):
+Gem mining (at lvl 99 with 4-ticking, need CHARGED glory btw):
 Per hour:
-620 opals
-314 jades
-155 red topaz
-94 sapphires
-51 emeralds
-41 rubies
-41 diamonds
-89k mining xp/h
-Source: https://www.youtube.com/watch?v=TeObtKw_c-Q
+Lvl 99:
+~80k mining xp/h
+~576 opal
+~288 jade (~22.2k craft xp at lvl 80 crafting)
+~144 red topaz (~12.6k craft xp at lvl 80 crafting)
+~86 sapphires (9.9k craft xp)
+~48 emeralds (6.6k craft xp)
+~48 rubies (8.1k craft xp)
+~38 diamonds (7.9k craft xp)
+Gems total value: ~67.3k craft xp (note: need to gather silver + gold bars somewhere)
+Note: Good xp even at low lvls, tested lvl 41-51 for ~72k mining xp/h
+Source:
+https://www.youtube.com/watch?v=TeObtKw_c-Q
+12 min personal test
+https://oldschool.runescape.wiki/w/Gem_rock
+
+Gem mining (~45-50 mining lvl, 4-ticking, without karamja hard diary)
+~21k xp/h
+~323 gems/h
+Source: Personal 5 min test
+
+Silver mining at karamja (~54-57 mining lvl, 4-ticking)
+~18.1k xp/h
+~450 silver ore banked/h
 
 
 Volcanic mine (only mining rocks, 50 mining req):
@@ -372,6 +416,10 @@ Source: Personal 6 min test
 -----
 
 # Hunter #
+
+Black warlocks
+~53k xp/h (at 100% success catch rate)
+Source: 6 min personal test
 
 Herbiboar (at lvl ~90 hunter):
 ~135 herbs/h (~18k herb xp at ~80 herblore)
@@ -441,6 +489,11 @@ Cook food
 AFK: 1.4k food/h
 2 ticking: 2.2k food/h
 
+Make wines
+~2.5k wines/h
+~500k cooking xp/h (at 68+ cooking)
+Source: Personal 1 min test
+
 -----
 
 # Crafting #
@@ -500,6 +553,45 @@ Blow glass (lantern lenses)
 1.8k glass/h
 99k craft xp/h
 Source: Personal 1 min test
+
+Cut gems
+~2.6k gems/h
+Sapphire: ~130k craft xp/h
+Emerald: ~175.5k craft xp/h
+Ruby: ~221k craft xp/h
+Diamond: ~279.5k craft xp/h
+Lvl 50 opal: 31.5k craft xp/h (74.22% success)
+Lvl 60 opal: 32.7k craft xp/h (78.52% success)
+Lvl 70 opal: 34.2k craft xp/h (83.59% success)
+Lvl 80 opal: 35.6k craft xp/h (88.28% success)
+Lvl 90 opal: 37.1k craft xp/h (93.36% success)
+Lvl 99 opal: 38.4k craft xp/h (98.05% success)
+Lvl 50 jade: 39.4k craft xp/h (67.58% success)
+Lvl 60 jade: 41.5k craft xp/h (73.05% success)
+Lvl 70 jade: 43.8k craft xp/h (78.91% success)
+Lvl 80 jade: 46.1k craft xp/h (84.77% success)
+Lvl 90 jade: 48.3k craft xp/h (90.63% success)
+Lvl 99 jade: 50.5k craft xp/h (96.09% success)
+Lvl 50 red topaz: 47.9k craft xp/h (64.84% success)
+Lvl 60 red topaz: 50.6k craft xp/h (70.31% success)
+Lvl 70 red topaz: 53.4k craft xp/h (76.17% success)
+Lvl 80 red topaz: 56.5k craft xp/h (82.42% success)
+Lvl 90 red topaz: 59.3k craft xp/h (88.28% success)
+Lvl 99 red topaz: 62.1k craft xp/h (94.14% success)
+Source:
+1 min personal test
+https://oldschool.runescape.wiki/w/Opal chart
+
+Smelt jewelery:
+~1.3k jewelery/h
+Opal amulet: 71.5k craft xp/h
+Jade amulet: 91.0k craft xp/h
+Red topaz amulet: 104k craft xp/h
+Sapphire amulet: 84.5k craft xp/h
+Emerald amulet: 91.0k craft xp/h
+Ruby amulet: 110.5k craft xp/h
+Diamond amulet: 130k craft xp/h
+Source: 1 min personal test
 
 -----
 
@@ -587,6 +679,12 @@ Fletching broad arrows
 ~400k fletching xp/h
 Source: Calculated
 
+Cut bolt tips:
+~13.8k bolt tips/h
+Costs ~1150 gems/h
+Ruby: ~6.9k fletch xp/h
+Diamond: ~8.05k fletch xp/h
+
 -----
 
 # Firemaking #
@@ -611,6 +709,14 @@ Source: Calculated
 Making pots (14 per inv)
 2.6k pots/h
 Source: Personal 1 min test
+
+Collect rogues purse
+~250-300 herbs/h w/ brimhaven hosue teleport (at 99 herb)
+Source: Personal 5 min test
+
+Collect snake weed
+~300 herbs/h w/ brimhaven house teleport (at 99 herb)
+Source: Personal 5 min test
 
 -----
 
@@ -750,7 +856,7 @@ Always: 2 blue d hides
 1.5 dragon arrowtips
 Various (mostly irrelevant) bolt tips (rare)
 0.55 onyx bolt tips
-Various seed (rare)
+Various seed (rare, mostly snapdragon and torstol)
 1.87 addy ores
 18.3 grapes
 3.33 magic logs
@@ -768,6 +874,7 @@ Estimated resources xp value per kill:
 885 crafting xp (hides + diamonds)
 3660 cooking xp (grapes, assuming 68+ cooking)
 222 fletch xp (dart tips + unf bolts)
+187 smith xp (adamant ores, assuming you find coal somewhere else, e.g. from kingdom of miscellania)
 
 
 
@@ -809,9 +916,11 @@ Estimated resources xp value per completion:
 
 
 
-Temple trekking (easy path + hard follower + evading)
-~35-40 completions/h
-Source: 20 min personal test
+Temple trekking (easy path + evading)
+~45 completions/h
+~61.9k xp/h split in Agility, Thieving, Slayer, Firemaking, Fishing, Woodcutting and Mining (i.e. ~8.8k xp/h in each skill)
+Source: 1h personal test
+https://oldschool.runescape.wiki/w/Temple_Trekking#Rewards
 
 Temple trekking (hard path + easy follower in max gear)
 ~17-18 completions/h (~478 herbs/h, worth ~50.5k herb xp)
@@ -852,6 +961,11 @@ Kingdom of Miscellania
 4.2 dwarf weed (740 herb xp)
 In total: ~6.5k herb xp (7.7 gp/xp)
 Source: https://oldschool.runescape.wiki/w/Managing_Miscellania
+
+
+# Early game moneymaking #
+Mining gems + silver + making jewelery + alching or selling to karamja shops
+~70k gp/h(?) + some mining + smithing + crafting xp
 
 -----
 
