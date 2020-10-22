@@ -107,6 +107,8 @@ Smelting iron (without BF) and smithing iron platebodies: +40%
 Smelting iron (without BF) and smithing single bar items: +66.7%
 Smelting 27 iron per round at BF and smithing platebodies: +7.9%
 Smelting 27 iron per round at BF and smithing single bar items: +34.6%
+Smelting adamant (wihout BF) and smithing platebodies: +15%
+Smelting 27 adamant per round at BF and smithing platebodies: +3.0%
 
 # Fishing
 Barb fishing at lvl 70 fishing: +19.7% fishing xp (+ some good agility + strength + cooking xp)
