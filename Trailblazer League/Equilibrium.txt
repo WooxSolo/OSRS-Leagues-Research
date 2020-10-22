@@ -15,8 +15,11 @@ Any other attack style with max hit of 50: +12.3%
 # Ranged
 Chins assuming an average of 60 damage per throw that gives xp: +5.2%
 Broad bolts with a max hit of 24: +25%
+Broad bolts with a max hit of 30: +20.2%
 Broad arrows with a max hit of 13: +44.6%
+Broad arrows with a max hit of 18: +32.9%
 Blowpipe with a max hit of 15: +39.1%
+Blowpipe with a max hit of 20: +29.8%
 
 # Magic
 Superheating: +23.6%
