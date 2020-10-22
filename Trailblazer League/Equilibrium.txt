@@ -54,11 +54,15 @@ Maple logs: +9.3%
 Oaks: +33.3%
 Willows: +18.5%
 Teaks: +14.7%
+Sulliusceps: +9.8%
 
 # Farming
 Magic trees assuming no deaths: +0.2%
 Palm trees assuming no deaths: +1.0%
 Calquat trees assuming no deaths: +0.2%
+Irit seeds assuming average 7 herbs per plant: +26.1%
+Snapdragon seeds assuming 7 herbs per plant: +12.9%
+Torstol seed assuming 7 herbs per plant: +5.6%
 
 # Agility
 Seers rooftop with no fails: +13.2%
