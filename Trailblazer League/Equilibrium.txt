@@ -6,7 +6,11 @@ Estimated additional xp from T5R3 assuming 1.5k total and 12x xp rates assuming 
 
 # Attack/strength/defence
 Controlled attack style with max hit of 30: +60.5%
+Controlled attack style with max hit of 40: +45.7%
+Controlled attack style with max hit of 50: +36.8%
 Any other attack style with max hit of 30: +20.2%
+Any other attack style with max hit of 40: +15.2%
+Any other attack style with max hit of 50: +12.3%
 
 # Ranged
 Chins assuming an average of 60 damage per throw that gives xp: +5.2%
