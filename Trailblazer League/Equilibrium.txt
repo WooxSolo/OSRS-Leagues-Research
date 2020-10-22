@@ -1,0 +1,150 @@
+Estimated additional xp from T5R3 assuming 1.5k total and 12x xp rates assuming training methods available around lvl 70s. More xp may be gotten depending on how the content is coded, but I will be assuming worst case scenario below.
+
+-----
+
+## Popular training methods bonus xp:
+
+# Attack/strength/defence
+Controlled attack style with max hit of 30: +60.5%
+Any other attack style with max hit of 30: +20.2%
+
+# Ranged
+Chins assuming an average of 60 damage per throw that gives xp: +5.2%
+Broad bolts with a max hit of 24: +25%
+Broad arrows with a max hit of 13: +44.6%
+Blowpipe with a max hit of 15: +39.1%
+
+# Magic
+Superheating: +23.6%
+High alching: +19.2%
+Magic dart at 70-79 magic at 90% hit chance: +26.6%
+Iban blast at 90% hit chance: +22.7%
+Ice bursting 10 targets at 95% accuracy: +4.8%
+
+# Slayer
+Bloodvelds: +10.4%
+Kurask: +12.9%
+Gargoyles/Nechryaels: +11.9%
+
+# Prayer
+Dragon bones on limestone altar w/ 2 burners: +6.3%
+Dragon bones on gilded altar w/ 2 burners: +5.0%
+Superior dragon bones on gilded altar w/ 2 burners: +2.4%
+
+# Crafting
+Smelt molten glass + blow lantern lens: +33.3%
+Superglass make w/ 3 giant seaweed per inv + blow lantern lens: +21.1%
+Crafting tiaras: +23.8%
+
+# Fletching
+Arrow shaft from maple logs + headless arrows + broad arrows: +16.5%
+Maple longs: +21.4%
+
+# Herblore
+Clean irit + super attack: +23.0%
+Clean kwuarm + super strength: +18.3%
+Clean toadflax + sara brews: +13.3%
+
+# Firemaking
+Willow logs: +13.9%
+Teak logs: +11.9%
+Maple logs: +9.3%
+
+# Woodcutting
+Oaks: +33.3%
+Willows: +18.5%
+Teaks: +14.7%
+
+# Farming
+Magic trees assuming no deaths: +0.2%
+Palm trees assuming no deaths: +1.0%
+Calquat trees assuming no deaths: +0.2%
+
+# Agility
+Seers rooftop with no fails: +13.2%
+Pollnivneach rooftop with no fails: +12.6%
+Werewolf agility course with no fails: +20.5%
+Hallowed sepulchre first 3 floors: +3.8%
+
+# Construction
+Oak larders: +2.6%
+Oak doors: +2.1%
+Ranging pedestals: +1.7%
+Mahogany tables: +1.5%
+Fairy rings: +2.3%
+
+# Hunter
+Red chins: +4.7%
+Black chins: +4.0%
+Herbiboar at lvl 80 hunter: +2.1%(?) (May not be correct due to random trail inspections giving 50 hunter xp)
+
+# Thieving
+Ardy knight thieving: +14.8%
+Blackjacking menaphite thugs: +13.2%
+
+# Runecrafting
+ZMI runecrafting with 26 pure ess per round at lvl 60-69: +3.5%
+
+# Mining
+Iron ore: +35.7%
+Gem rocks: +19.2%
+Sandstone at lvl 70 mining: +29.4%
+Granite assuming average 60 xp per rock: +20.8%
+
+# Smithing
+Smelting iron (without BF) and smithing iron platebodies: +40%
+Smelting iron (without BF) and smithing single bar items: +66.7%
+Smelting 27 iron per round at BF and smithing platebodies: +7.9%
+Smelting 27 iron per round at BF and smithing single bar items: +34.6%
+
+# Fishing
+Barb fishing at lvl 70 fishing: +19.7% fishing xp (+ some good agility + strength + cooking xp)
+Fly fishing at lvl 70 fishing: +21.5%
+Karambwan (assuming bought karambwanji): +25%
+
+# Cooking
+Trout: +17.9%
+Salmon: +13.9%
+Karambwan: +6.6%
+Wine: Almost nothing
+
+-----
+
+## New training methods (multiply by xp multiplier to get actual xp rates):
+
+# 3t barb fishing at lvl 70 fishing (multiply all xp rates by 0.6 to get rates for 5-ticking):
+Without relic:
+- 89.3k fishing xp/h
+- 8.1k agility xp/h
+- 8.1k strength xp/h
+- Unknown amount of cooking xp/h
+With relic:
+- 106.9k fishing xp/h
+- 25.7k agility xp/h
+- 25.7k agility xp/h
+- Unknown amount of cooking xp/h
+
+# Toy mice agility training (assuming 2.8k catches/h):
+Without relic:
+- 8.4k agility xp/h
+With relic:
+- 43.4k agility xp/h
+
+# 1.5t mining pure essence (dropping essence or autobank relic):
+Without relic:
+- 20k mining xp/h
+With relic:
+- 70k mining xp/h
+
+# 1.5t mining daeyalt essence:
+Without relic:
+- 14k mining xp/h
+With relic:
+- 49k mining xp/h
+
+# Fletching broad bolts (assuming 100k bolts fletched/h)
+Without relic:
+- 300k fletching xp/h
+With relic:
+- 425k fletching xp/h
+Note: A lot more expensive than broad arrows
