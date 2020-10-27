@@ -76,6 +76,7 @@ Seers rooftop with no fails: +13.2%
 Pollnivneach rooftop with no fails: +12.6%
 Werewolf agility course with no fails: +20.5%
 Hallowed sepulchre first 3 floors: +3.8%
+Ardy rooftop course with no fails: +11.0%
 
 # Construction
 Oak larders: +2.6%
@@ -161,3 +162,13 @@ Without relic:
 With relic:
 - 425k fletching xp/h
 Note: A lot more expensive than broad arrows
+
+# Zalcano (making tephra, not killing the boss, tested at max stats w/ rune pick)
+Without relic:
+- 10k smith xp/h
+- 5k rc xp/h
+- 20.6k mining xp/h
+With relic:
+- 27.9k mining xp
+- 23.1k smithing xp
+- 18.1k rc xp
