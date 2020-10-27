@@ -1,0 +1,159 @@
+Game plan: Rush Kandarin
+
+Note: Plan for tasks in areas you pass by. Some may require combat which means saving runes may be a good idea.
+
+RuneLite NPC indicator name list: Count Check,Zaff,Marlo,Old Man Yarlo,Sawmill operator,Information clerk,Aubury,Chaeldar,Father Urhney,Diango,Morgan,Gabooty,Pirate Jackie the Fruit,Fernahei,Obli,Dr Harlow,Peter
+
+## Lumbridge
+- Talk to Count Check to teleport to Barbarian Village
+
+## Barb village
+- Grab 10k from stronghold.
+
+## Varrock
+- Buy fire staff from Zaff
+- Buy hammer, bucket, tinderbox, and chisel from Varrock general store and take knife and spade upstairs
+- Complete Daddy's Home:
+-- Talk to Marlo in estate agent house (2, 3, 3)
+-- Talk to Old Man Yarlo sw of Aubury
+-- Remove all furniture
+-- Talk to Old Man Yarlo again (2)
+-- Search crates for 3 logs
+# Bank (Varrock east): Coins, the 3 logs, bronze axe, hammer
+-- Go to sawmill and talk to sawmill operator (1) to turn logs into planks
+-- Buy 5 bolt of cloth, saw, 50 nails (pref steel)
+-- Go to Fossil Island and pick up 10 planks
+--- If planks are taken, cut 10 logs and pay 1k to make into planks at sawmill
+-- Return to Old Man Yarlo and build all furniture
+-- Talk to Old Man Yarlo
+-- Talk to Marlo in estate agent house (should end up with 20 construction)
+- Do museum quiz for 20 hunter + 20 slayer
+- Clean finds until 51 kudos and digsite pendant. Save any uncut opal, uncut jade and iron darts found. Talk to information clerk for 20 mining when done.
+- Open and bank the reward box from Daddy's Home
+# Bank (Varrock east): Bring coins
+- Buy runes from Aubury for 3.5k (or 5k if no fire staff)
+-- With fire staff: 509 air runes, 279 mind runes, 15 water runes, 38 earth runes
+-- Additional 6 air + water + earth for waterfall quest later
+# Bank (Varrock east): Bring nothing
+- Tea stalls until 26 thieving. Don't need to bank tea, but bank last inv.
+# Bank (Varrock east): Bronze pickaxe, knife, bronze axe, 8 noted bolt of cloth
+- Sell the bolt of cloth to sawmill for 2k
+- Cut a tree while running to Varrock east mine
+- Tick manip mine 2 copper and 2 tin and iron until 28 mining. Keep all tin and copper and 16 iron ore.
+- Go to Varrock west mine (watch out for wizards)
+- Mine 3 clay at Varrock west mine and keep them.
+# Bank (Varrock west): Coins, fire staff, air runes, mind runes, water runes, earth runes, dramen staff, bronze axe, tinderbox, small fishing net
+
+## Tree spirits
+- Go to edgeville fairy ring, cut 3 logs on the way there, fire strike tree spirits (BKQ fairy ring) until rune axe or until <100 casts left.
+- Get a slayer task from Chaeldar
+
+## Lumbridge
+- Return to lumbridge through Zanaris entrance
+- Retrieve a ghostspeak amulet from Father Urnhey
+- Complete Misthalin Mystery quest (use wiki). Should end up with 16 crafting.
+- Fish shrimp until lvl 8 fishing + 8 cooking
+# Bank (Lumbridge): Hammer, 2 copper ore, 2 tin ore, all iron ore, 3 food
+- Smelt and smith bronze knives at lumbridge furnace for lvl 3 smithing
+- Smelt all iron ore. Will need at least 2 iron bars later.
+- Thieve HAM members until rusty sword (1/25 drop rate). Save any opal + jade received.
+
+## Draynor
+# Bank (Draynor Village): Coins
+- Buy event rpg, chronicle, 5 teleport cards from Diango
+# Bank (Draynor Village): Appropriate axes, knife, tinderbox
+- Cut regular trees until lvl 3 wc + fm + fletching then oaks. Make highest lvl fletching item with all logs. Continue until 34 fletching. Keep and bank ~20 oak logs.
+- Get 18 agility at draynor rooftop course
+- Talk to Morgan (2) to start vampire slayer
+- Take garlic upstairs
+- Cut all opals and jades at bank
+-- If you have less than 2 total opal + jades, mine some at shilo village later
+# Bank (Draynor Village): Coins, dramen staff, fire staff, air runes, mind runes, 2 total cut jades/opal, appropriate axe
+
+## Karamja
+- Take the fairy ring at wizards tower to Karamja (CKR)
+- Run to Cairn Isle (diary)
+- Collect a seaweed 5 times a bit north (diary)
+- Sell the opals/jades to Gabooty in center of Tai Bow Wannai for 100+ trading sticks
+- Cut full inv of teak logs
+- Kill a jogre in the pothole dungeon (diary) and save the jogre bones
+- Minigame teleport to tzhaar area
+- Enter the fight caves and leave (diary)
+# Bank (Tzhaar city): Coins, small fishing net, bronze pickaxe
+- Pick 5 bananas on karamja (diary)
+- Fish shrimp/anchovies north (diary)
+- League teleport to brimhaven
+- Swing rope to moss giants (diary)
+- Mine a gold ore (diary). Easy diary should be complete
+- League teleport to brimhaven
+- Talk to Pirate Jackie the Fruit at the agility arena to claim diary reward. Use lamp or herblore or prayer.
+- Take cart to shilo village
+- Buy fly fishing rod + 300 feathers from fishing shop
+- Buy pestle and mortar, spade, 3 ropes and 1 bronze bar (if available) from general store.
+# Bank (Shilo Village): Fly fishing rod, feathers, tinderbox, 15 oak logs
+- Do 3t fishing + cooking until reasonable fishing + cooking lvls depending on tasks (40s?), bank all food
+# Bank (Shilo Village): Coins, Chronicle, 3 clay
+- Teleport to champions guild
+
+## Varrock
+- Buy a beer and talk to Dr Harlow in the pub (2) for vampire slayer. Talk again to receive a stake.
+- Do varrock rooftops until reasonable agility lvl depending on tasks (maybe 40?)
+- Buy buckets from Varrock general store and make 3 soft clay
+# Bank (Varrock west): Appropriate axe, knife, teak log, tinderbox
+- 3t oaks + firemaking + fletching (decent spot west of Varrock) until reasonable firemaking and fletching lvl (40s?) depending on tasks
+# Bank (Varrock west): Fire staff, mind runes, air runes, stake, garlic, hammer (note: minimum 15 fire strike casts)
+- Finish vampire slayer at draynor manor. Should end up with lvl 35 attack.
+
+## Draynor village
+# Bank (Draynor Village): Trouts, chronicle
+- Pickpocket Martin the Master Gardener (lumb med diary)
+- Pickpocket master farmers until reasonable thieving level (40s?). Bank all seeds.
+- If missing rune axe:
+	# Bank (Draynor Village): Chronicle, karamja gloves, excess steel, mithril and addy axes and anything else worth selling to karamja store
+	- League teleport to Brimhaven
+	- Sell stuff to karamja general store south
+- Teleport to champions guild
+
+## Varrock
+- If missing rune axe:
+	- If missing money: Pickpocket guards
+	- Buy more fire strikes
+# Bank (Varrock east): Hammer, 10 oak planks, 2 iron bars, 25 nails (any metal), 1 tinderbox, 2 logs or bronze axe (equip), 3 soft clay, 1 bucket, 2 ropes, 5 planks
+- On the way to fossil island, cut 2 logs if needed
+
+## Fossil island
+- Build the museum camp on fossil island. Should end up with 34 construction.
+- Talk with Peter for 5 small fossils.
+# Bank (Fossil island): Bronze pickaxe, knife, teak logs
+- 3t iron on fossil island near bank. Continue until 40(?) mining depending on tasks and 150+ iron ore.
+- Go back to Varrock
+
+## Varrock
+# Bank (Varrock east): 5 small fossils
+- Clean the fossils and make a statue in Varrock museum. Save lamp until x8 xp multiplier.
+- If missing rune axe:
+	# Bank (Varrock west): Fire staff, air runes, mind runes, dramen staff, bronze axe
+	- Return to tree spirits (BKQ) until they drop rune axe
+	- Return through fairy rings (DKR)
+
+## Edgeville
+# Bank (Edgeville): Iron ores
+- Smelt 60+ iron bars
+- Return to Varrock
+
+## Varrock
+# Bank (Varrock west): Hammer, iron bars
+- Make iron knives with all iron bars (min 300, i.e. 60 bars), maybe some platebodies too
+
+## Anywhere
+- Train ranged on slayer tasks (or any monster in lumbridge) until 45 ranged. Note: Make sure to pick up knives from the ground after throwing them if you don't have many more than 300.
+
+Other activities for points:
+- Pick 15 seaweed on Karamja, fill buckets with sand and smelt 15 molten glass at Zanaris for 20 crafting.
+- Do varrock easy diary. To get into earth altar, catch young imps in puro puro until 24 hunter and lockpick, then earth imps until earth tiara.
+
+-----
+
+Kandarin:
+
+120 grey chins for 45 -> 55 ranged
