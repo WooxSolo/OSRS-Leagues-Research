@@ -2,7 +2,7 @@
 
 Melee:
 1-58 attack: Questing (Waterfall + Fight arena + Vampire slayer)
-58-59 attack: Probably use dramen staff
+58-59 attack: Event rpg
 60+ attack: D scim
 70+ attack: Whip
 
