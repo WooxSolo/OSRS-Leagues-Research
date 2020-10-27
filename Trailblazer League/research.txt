@@ -374,7 +374,7 @@ Source: Personal 5 min test
 Silver mining at karamja (~54-57 mining lvl, 4-ticking)
 ~18.1k xp/h
 ~450 silver ore banked/h
-
+Source: Personal 5 min test
 
 Volcanic mine (only mining rocks, 50 mining req):
 55k mining xp/h
