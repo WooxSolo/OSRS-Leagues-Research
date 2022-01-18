@@ -202,6 +202,7 @@ The plan:
 - Talk to Hazelmere east
 - Do Monks friend quest (lookup the guide)
 - Do Tree gnome village quest (lookup the guide)
+-- (T1) Visit the Tree Gnome Village 
 - Spirit tree to Tree gnome stronghold
 - Finish the rest of The Grand Tree (lookup the guide)
 -- (T2) Achieve Your First Level 40  (from 40 agility)
@@ -270,7 +271,7 @@ The plan:
 Plan ends here. Good stuff to work on from here:
 * Train hunter and do a bunch of hunter tasks
 * Sqirk juice from sorceress garden and all other tasks for thieving
-* Unlock strength and prayer, do waterfall quest, holy grail and monkey madness and buy d scim. Do warriors guide for defenders (if they aren't affected by drop rate buffs).
+* Unlock strength and prayer, do waterfall quest, holy grail and monkey madness and buy d scim. Do warriors guild for defenders (if they aren't affected by drop rate buffs).
 * Maybe other easy tasks listed below.
 
 -----
@@ -305,9 +306,6 @@ Plan ends here. Good stuff to work on from here:
 
 # Tree Gnome Stronghold #
 (T1) Defeat a Tortoise With Riders in Kandarin 
-
-# Tree gnome village #
-(T1) Visit the Tree Gnome Village 
 
 # Seers village #
 (T3) Complete the Seers' Village Agility Course
@@ -407,4 +405,3 @@ Plan ends here. Good stuff to work on from here:
 (T2) Steal 25 Artefacts
 (T1) Enter Level 3 of the Chasm of Fire 
 (T1!) Bank at Mount Quidamortem
-
