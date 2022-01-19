@@ -59,7 +59,7 @@ The plan:
 - Fill jug with water
 - Buy a fire staff and equip it
 -- (T1) Equip an Elemental Staff
-- Buy 800 air runes and 400 mind runes (maybe less if leagues staff has lots of casts on it)
+- Buy 800 air runes and 400 mind runes and 1 death rune (maybe less if leagues staff has lots of casts on it)
 - Thieve a cup of tea
 -- (T1!) Steal from Varrock tea stall 
 - Pet a stray dog
@@ -126,7 +126,7 @@ The plan:
 - Tan the cowhide
 -- (T1) Tan a Cow Hide in the Kharidian Desert 
 - Unlock Al kharid waystone
-# BANK: Bring all coins, mage weapon, 3 balls of wool, 1 ashes, 1 redberries, 1 bucket, 1 clay, 1 air talisman, 4 onions, 1 pot of flour, 1 bronze bar, 1 pink skirt, 3 cakes
+# BANK: Bring all coins, mage weapon, 3 balls of wool, 1 ashes, 1 redberries, 1 bucket, 1 clay, 1 air talisman, 4 onions, 1 pot of flour, 1 bronze bar, 1 pink skirt, 1 bronze axe, 3 cakes
 - Defeat an Al kharid warrior
 -- (T1) Defeat an Al Kharid Warrior
 - Talk to Hassan (1) to start Prince Ali Rescue
@@ -137,6 +137,9 @@ The plan:
 - Waystone to Lumbridge
 - (Optional) Pickpocket a HAM member
 -- (T1) Pickpocket a H.A.M. Member 
+- Talk to Warrior NW of Lumbridge Swamp (1, 1, 1, 2) to start Lost City
+- Try to chop down tree for quest
+- Talk to Shamus (1)
 - Talk to Sedridor in the Wizards' Tower basement (3, 1, 1)
 - Defeat a lesser demon (skip if crowded)
 -- (T1) Defeat the Lesser Demon in the Wizards' Tower 
