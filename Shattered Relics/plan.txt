@@ -35,8 +35,6 @@ The plan:
 # UNLOCK SKILL: Agility
 - Kill a goblin at fishing guild (or do at Lumbridge later)
 -- (T1!) Defeat a Goblin
-- Kill a moss giant (assuming you have a mage weapon at this point)
--- (T1) Defeat a Moss Giant
 - Optional: Buy poison chalice from Stankers
 -- (T1!) Drink a poison chalice
 - Go to Tree gnome stronghold
@@ -116,6 +114,8 @@ The plan:
 -- (T1!) Buy something from Trader Crewmembers
 - Pick pineapple at Brimhaven (if available)
 -- (T1) Pick a Pineapple on Karamja (maybe)
+- Defeat a moss giant west
+-- (T1) Defeat a Moss Giant
 - Unlock Brimhaven waystone
 - Waystone to Catherby and put all pineapples in compost bin
 - Waystone to Ardy
