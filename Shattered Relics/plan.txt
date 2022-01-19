@@ -75,7 +75,7 @@ The plan:
 -- (T1!) Complete natural history quiz
 - Do romeo and juliet quest, pick redberries while picking cadava berries
 -- (T1) Complete Romeo & Juliet 
-# BANK: Bring all coins, an axe, knife, tinderbox, 1 pot of flour, 1 bucket of milk, 1 small fishing net, coins, magic equipment, 5 cakes
+# BANK: Bring all coins, an axe, knife, tinderbox, 1 pot of flour, 1 bucket of milk, 1 small fishing net, 1 bronze pickaxe, magic equipment, 5 cakes
 - Cut 3 logs (or 2 if skipping sawmill)
 -- (T1!) Chop Some Logs
 - Optional: Make a plank at the sawmill
