@@ -45,6 +45,7 @@ The plan:
 - Buy 2 pot of flour, 2 bucket of milk, 2 onions, 1 knife from Hudo (northwest)
 - Minigame teleport to Clan Wars
 -- (T1!) Visit the Ferox Enclave
+- Unlock Ferox Enclave waystone
 - Buy 1 beer for 2 gp
 -- (T1!) Order a drink at the Old Nite
 - Go downstairs and take soul wars portal to Edgeville
