@@ -42,7 +42,7 @@ The plan:
 - Train agility until level 10
 -- (T1!) Complete the gnome stronghold agility course
 - Talk to King Shareen and start The Grand Tree (1, 2)
-- Buy 2 pot of flour, 2 bucket of milk, 2 onions, 1 knife from Hudo (northwest)
+- Buy 2 pot of flour, 2 bucket of milk, 4 onions, 1 knife from Hudo (northwest)
 - Minigame teleport to Clan Wars
 -- (T1!) Visit the Ferox Enclave
 - Unlock Ferox Enclave waystone
@@ -94,6 +94,7 @@ The plan:
 -- (T1!) Catch a Shrimp
 - Mine 1 tin and 1 copper
 -- (T1!) Mine some Copper Ore
+- Take 1 swamp tar
 - Catch more shrimp if fire isn't out yet
 - Smelt a bronze bar at Lumbridge furnace
 -- (T1!) Smelt a Bronze Bar
@@ -125,7 +126,7 @@ The plan:
 - Tan the cowhide
 -- (T1) Tan a Cow Hide in the Kharidian Desert 
 - Unlock Al kharid waystone
-# BANK: Bring all coins, mage weapon, 3 balls of wool, 1 ashes, 1 redberries, 1 bucket, 1 clay, 1 air talisman, 2 onions, 1 pot of flour, 1 bronze bar, 1 pink skirt, 3 cakes
+# BANK: Bring all coins, mage weapon, 3 balls of wool, 1 ashes, 1 redberries, 1 bucket, 1 clay, 1 air talisman, 4 onions, 1 pot of flour, 1 bronze bar, 1 pink skirt, 3 cakes
 - Defeat an Al kharid warrior
 -- (T1) Defeat an Al Kharid Warrior
 - Talk to Hassan (1) to start Prince Ali Rescue
@@ -142,7 +143,7 @@ The plan:
 -- (T2) Defeat a Lesser Demon 
 - Talk to Ned in Draynor Village (1, 2, 1) and obtain wig
 - Buy rope from Ned
-- Make a yellow dye at Aggie
+- Make 2 yellow dyes at Aggie
 - Talk to Aggie (2, 1)
 - Use yellow dye on wig
 - Talk to Morgan (1) to start Vampire Slayer
@@ -201,7 +202,10 @@ The plan:
 -- (T1) Light a torch
 # BANK: All coins, 1 translation book, 1 bark sample, 1 bronze axe, 1 jug of water, 4 cakes, magic weapon
 - Talk to Hazelmere east
+- Buy 1 swamp paste from port khazard
+- Do Fight arena quest (lookup the guide)
 - Do Monks friend quest (lookup the guide)
+-- (T1!) Complete monks friend
 - Do Tree gnome village quest (lookup the guide)
 -- (T1) Visit the Tree Gnome Village 
 - Spirit tree to Tree gnome stronghold
@@ -294,7 +298,6 @@ Plan ends here. Good stuff to work on from here:
 
 # Ardy #
 (T1!) Visit the Rune Essence Mine
-(T1!) Complete monks friend
 (T1) Complete Sea Slug 
 (T1) Brimstail Rune Essence Mine teleport 
 (T1) Complete a Fishing Trawler Game 
@@ -406,3 +409,6 @@ Plan ends here. Good stuff to work on from here:
 (T2) Steal 25 Artefacts
 (T1) Enter Level 3 of the Chasm of Fire 
 (T1!) Bank at Mount Quidamortem
+
+# Other #
+(T1!) Burn Some Oak Logs
