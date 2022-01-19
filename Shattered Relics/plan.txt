@@ -21,9 +21,11 @@ The plan:
 - Buy bucket from farming shop
 - Talk to banker
 -- (T1!) Talk to a banker
-# BANK: Bank everything, keep bucket
+# BANK: Bank everything, keep 1 bucket, 1 pot, 1 wheat
 - Take-from beehive
 -- (T1!) Get stung by bees
+- Make a pot of flour at Ardy windmill
+-- (T1!) Make some Flour 
 - Unlock Ardougne waystone
 - Steal cakes and bank them in ardy until lvl 20 thieving
 -- (T1!) Steal a chocolate slice
