@@ -216,7 +216,7 @@ The plan:
 - Spirit tree to Tree gnome stronghold
 - Finish the rest of The Grand Tree (lookup the guide)
 -- (T2) Achieve Your First Level 40  (from 40 agility)
-# BANK: Bring coins, all law runes, all air runes, magic weapon, 1 bucket of milk, 1 hammer, 1 stake, 1 garlic, 1 feather
+# BANK: Bring coins, all law runes, all air runes, magic weapon, 1 bucket of milk, 1 hammer, 1 stake, 1 garlic, 1 feather, 1 Ancient casket
 - Teleport to Varrock
 -- (T2) Teleport Using Law Runes 
 - Waystone to Ardy
