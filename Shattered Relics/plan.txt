@@ -219,7 +219,7 @@ The plan:
 # BANK: Bring coins, all law runes, all air runes, magic weapon, 1 bucket of milk, 1 hammer, 1 stake, 1 garlic, 1 feather, 1 Ancient casket
 - Teleport to Varrock
 -- (T2) Teleport Using Law Runes 
-- Waystone to Ardy
+- Waystone to Catherby
 - Buy 1 raw sardine
 - Waystone to Varrock
 - Do Gertrudes cat (look up guide)
