@@ -1,0 +1,615 @@
+Note: The plan is optimized for Woox (but may also work for others) and assumes Dodgy Deals, Clue Compass and Varlamore will be chosen. May also contain mistakes.
+
+- Complete the Leagues Tutorial (easy task)
+- Open the Leagues Menu (easy task)
+- Talk to Hans and ask about your age (easy task)
+- Pickpocket a man (easy task)
+- Buy a beer from the pub north for 2 gp
+- Pick and eat an onion northwest (easy task)
+- Stand in wheat field northwest and perform emote "Cry" (easy task)
+- Take 1 grain and make some Flour (med task)
+- Search the haystack west until you find a needle (10% chance) (med task)
+- Complete the draynor rooftop agility course twice for the following tasks:
+	- Complete the Draynor Agility Course (easy task)
+	- Achieve Your First Level Up (easy task)
+	- Achieve Your First Level 5 (easy task)
+	- Achieve Your First Level 10 (easy task)
+- Talk to Morgan (1) to start Vampire slayer quest
+- Go upstairs and take garlic from cupboard
+# Bank: Bring nothing
+- Insult Aggie the Witch (easy task)
+# Bank: Bring all coins, 1 beer
+- Buy 26 wines from Fortunato
+- Go to the Longhall in barb village and drink the beer (easy task)
+- Turn on thick skin to drain prayer to 0 (will be used to restore prayer in Lumb later)
+- Complete the stronghold of security for 10k gp and the boots, equip the boots (med task)
+- Buy a kitten in Varrock and stroke it (easy task) (if it doesn't work it will probably have to grow into a cat, so keep it around in that case)
+# Bank at Varrock west bank: Bring all coins, bronze pickaxe, 1 pot of flour, 1 bronze axe, 10 wines
+- Go to Zaff and buy 1 staff of air and equip it (easy task)
+- Go to the general store and buy 2 buckets, 1 shears and 1 hammer
+- Go to Aubury and teleport to essence mine (easy task)
+- Mine 1 rune essence (easy task)
+- Leave essence mine and buy 500 mind runes, 200 water runes, 10 earth runes, 10 fire runes from Aubury
+- If the mugger is nearby kill it (easy task), skip if crowded or you can't find it
+- Buy 1 blue wizard hat and 1 red cape from clothing store east
+- Use the wizard hat on the hat stand in the building southwest from Aubury (easy task), pick the hat back up
+- Buy 1 cup of tea from tea trader northeast
+- Defeat a Guard north (easy task) and look for stray dog
+- Take bones from guard and give them to stray dog (easy diary task)
+- Pet the stray dog (easy task)
+- Keep an eye out for an imp when continuing, when found kill it with earth strike (easy task) and scatter the ashes (easy task)
+- Get a haircut from the hairdresser north (easy task)
+- Go north to the church and give Elsie upstairs a cup of tea to tell you a story (easy task)
+- Buy a house at the estate agent west (easy task)
+- Go south to the sword shop and buy an iron dagger and equip it (easy task)
+- (Vampire slayer quest) Talk to Dr Harlow (2) in the pub east
+- (Vampire slayer quest) Buy a beer and talk to him again to receive a stake
+- Talk to Charlie the Tramp south and make him upset (easy task)
+- Pick a cabbage east (easy task)
+- Kill a lvl 7 dark wizard south (easy task) (skip if hard)
+- Locate a lvl 5 goblin south of the sheep pen and kill it (easy task x2) (skip if you can't find it)
+- Kill a lvl 2 ram in the sheep pen (easy task) (skip if crowded)
+- Shear a sheep in the sheep pen (skip if crowded)
+- Go south and kill a chicken with your fists (easy task)
+- Bury the bones (easy task)
+- Take the raw chicken and an egg from the coop
+- If not crowded and you have 13+ mage, kill chickens until 3 are killed in 6 seconds (med task), otherwise skip this for later
+- Go southeast and milk a cow twice (easy task)
+- Kill a cow in one hit (easy task) (calfs might work)
+- Kill a Duck with fire strike (easy task)
+- Go to Lumbridge general store and buy 50 fishing bait, 1 tinderbox, 1 knife
+- Chop 3 logs (easy task)
+- Burn 1 logs (easy task)
+- Fletch 1 log into arrow shafts (easy task)
+- Talk to the farmer at the tree patch southwest and buy a rake and rake the patch (easy task)
+- Kill a rat outside the castle (easy task)
+- Talk to the Cook and complete Cooks assistant
+- Cook the raw chicken on the range in the kitchen (med task)
+- Use the chicken on the range again to burn it (easy task)
+- Go downstairs and kill a spider by kicking it (easy task)
+- If you sheared a sheep earlier, spin a ball of wool (easy task)
+# Bank upstairs: Bring magic equipment, all mind runes, all coins, bronze pickaxe, 1 log, knife, echo harpoon, 50 fishing bait, dramen staff, 5 wines
+- Use the northern staircase (easy task)
+- Talk to the Duke to get an anti-dragon shield
+- Pray at the altar at the church east (easy task)
+- Ask for a quest from Bob (easy task)
+- Stand in the graveyeard and perform the "Dance" emote (easy task)
+- Visit deaths domain (easy task)
+- Kill a frog in Lumbridge swamp (easy task)
+- Fish shrimp, sardine, herring and anchovies until the following tasks are complete:
+	- Catch a shrimp (easy task)
+	- Cook shrimp (easy task)
+	- Successfully cook 5 pieces of food (med task)
+	- Catch 25 sardines (easy task)
+	- Cook 10 sardines (easy task)
+	- Catch a herring (easy task)
+	- Catch an anchovy (easy task)
+	- Achieve Your First Level 20 (easy task)
+- Mine 1 copper (easy task) and 1 tin southwest
+- Buy a candle in Lumbridge (med task)
+- Enter Zanaris from the building northwest (easy task)
+- Get a slayer task from Chaeldar south (med diary task)
+- Buy an enchanted gem from Chaeldar and check your slayer task (easy task)
+- Smelt a bronze bar in the furnace west (easy task)
+- Use the fairy ring south with code CKR to go to karamja (easy task)
+- Catch 1 karambwanji north (easy task)
+- Go north of Tai Bwo Wannai village and kill a snake (easy task)
+- Go north to the general store and buy unlit torch and tinderbox and light the torch (easy task)
+- Go north and pick an pineapple south of the POH portal (easy task) (skip if already taken)
+- Enter your POH (easy task)
+- Build any room for 1k gp (med task)
+- Exit house and go north to the docks and buy 15 pineapples (easy task)
+- Go south and then west and use rope swing to the moss giant island (easy diary task)
+- Kill a moss giant (easy task + combat mastery task)
+- Home teleport (easy task)
+
+### At this point you should have 750+ league points which is enough to unlock the second relic
+
+# Bank at Lumbridge: Bring nothing
+- Pickpocket men at castle until lvl 15 thieving, open 28+ coin pouches at once (med task)
+- Pickpocket HAM members (med task) until lvl 40 thieving, 1 steel axe and 1 steel pickaxe. Keep herbs, uncut gems, 2 cowhides and easy clues if you get them. The following tasks will be completed:
+	- Achieve Your First Level 30 (med task)
+	- Achieve Your First Level 40 (med task)
+- Go to draynor village and do the rooftop course until lvl 30 agility. The following tasks will be completed:
+	- Complete 10 Laps of the Draynor Agility Course (med task)
+	- Obtain a Mark of Grace (med task, might not complete if unlucky but will be completed at Varrock in that case)
+# Bank at Draynor: Bring magic equipment, mind runes, stake, hammer, garlic, 5 wines, all coins
+- Pickpocket a master farmer (med task)
+- Buy 3 potato seeds
+- Go to draynor manor and have a chair follow you (easy task)
+- Go downstairs and kill Count draynor to complete Vampire slayer (med task)
+- Go to barbarian village and kill a barbarian (easy task)
+- Go east of barbarian village and kill a lvl 5 goblin if not done earlier (easy task x2)
+# Bank at Varrock: Bring magic equipment, mind runes, 5 wines, 1 bucket
+- Complete Varrock agility course until lvl 40 agility. The following tasks will be completed:
+	- Complete the Varrock Agility Course (easy task)
+	- Complete 10 Laps of the Varrock Agility Course (med task)
+- Start demon slayer and complete the first and second key (use quest guide)
+- Complete the natural history quiz (easy task)
+- Clean finds until everything has been found and 50 kudos has been received (pottery, old symbol, ancient symbol, ancient coin, old coin, clean necklace)
+- Keep the specimen brush and trowel for later
+- Talk to information clerk to receive 1k mining xp (x8) after getting 51+ kudos
+- Pickpocket a Varrock guard (med task)
+- Pickpocket Varrock guards until 27+ coin pouches and open all at once for 800+ coins (med task)
+- Pickpocket Varrock guards for 30k+ gp
+- Steal From the Varrock Tea Stall (easy task)
+- Buy a mithril dagger from sword shop and equip (med task)
+- Buy an adamant dagger from sword shop and equip (med task)
+- Buy a rune mace from champions guild and equip (med task)
+
+Woodcutting:
+- Chop Some Logs With a Steel Axe (easy task)
+- Fletch 1000 arrow shafts (med task)
+- Fletch 25 Oak Stocks (med task)
+- Fletch a Willow Shortbow (u) (med task)
+- Burn Some Oak Logs (easy task)
+- Chop a log from a potato tree (easy task)
+- Take a Canoe to Champions Guild (easy task, req 12 woodcutting)
+- Fletch an Oak Shortbow (easy task, need bowstring)
+- Get lvl 35 for teaks for 3 ticking
+
+Mining (prefer 3 tick):
+- Mine 5 Tin Ore (easy task)
+- Mine some Ore With a Steel Pickaxe (easy task)
+- Mine 50 Iron Ore (med task)
+- Mine 15 coal (med task)
+- Mine 25 Pure Essence (med task)
+- Obtain a Gem While Mining (med task)
+- Complete the Easy Karamja Diary (med task, 40 mining req)
+
+Shilo village:
+- Sleep in Paramaya Inn (med task)
+- Catch 10 Pike (med task)
+- Cook 20 Pike (med task)
+- Catch a Salmon on Karamja (med task)
+- Catch 50 Salmon (med task)
+- Take a Shortcut Across the Shilo Village River (med task)
+- Buy 373 bronze bars to train to lvl 40 smithing
+- Keep 150+ feather for fletching later
+
+Smithing:
+- Smith a Bronze full helm (easy task)
+- Smith a bronze plateskirt (easy task)
+- Smelt an Iron Bar (easy task)
+- Smelt a Steel Bar (med task)
+- Smith 10 Steel bolts (unf) (med task)
+
+Combo:
+- Smith 150 Iron Arrowtips (med task)
+- Fletch 150 Iron Arrows (med task)
+
+Dorgesh kaan:
+- Buy a bone dagger, use the special attack (easy task)
+- Buy a dorgeshuun crossbow and keep for later
+- Pickpocket a Bullseye Lantern From a Cave Goblin (med task)
+- Eat Eel sushi (med task)
+
+North Karamja:
+- Catch 100 Lobsters (med task)
+- Cook 100 Lobsters (med task)
+- Catch 50 Swordfish (med task)
+- Eat a Banana (easy task)
+- Fill a Crate With Bananas (easy task)
+
+Brimhaven:
+- Enter the Brimhaven Dungeon (med task)
+- Defeat a Greater Demon on Karamja (med task)
+
+Varlamore:
+- Buy glassblowing pipe, 13 sand, 13 soda ash. Turn into empty oil lamp to get lvl 20 crafting.
+- Pickpocket wealthy citizens (good xp, ok gp)
+- Obtain a Casket from Fishing (easy task)
+- Steal a Chocolate Slice (easy task)
+- Steal Some Silk (easy task)
+- Equip a Wizard Robe and Hat (med task) (54 sec respawn on robe top in Varlamore)
+- Buy 3 redberries for orange dye later
+- Plant Seeds in an Allotment Patch (easy task)
+- Protect Your Crops (easy task)
+- Fill a Bucket With Supercompost (med task)
+- Cut a Sapphire (easy task)
+- Craft an Emerald Ring (med task)
+- Craft a Ruby Amulet (med task)
+- Make an Attack Potion (easy task)
+- Teleport Using Law Runes (med task)
+- Mine some Ore With a Rune Pickaxe (med task)
+
+Zanaris:
+- Get a Gem from a Gorak (med task)
+- Catch a Baby Impling (easy task)
+
+Digsite:
+- Turn any Logs Into a Plank (easy task)
+- Pan for an Uncut Jade (easy task)
+- Provide Terry a buckle (med task)
+
+Fossil island:
+- Travel to Fossil Island (easy task)
+- Pet the Museum Camp dog (easy task)
+- Build a Bank on Fossil Island (med task)
+- Fully Unlock the Mycelium Transportation System (med task) (need rake, axe)
+
+Isle of souls:
+# Bank: Bring magic equipment, all mind and water runes, dramen staff, anti-dragon shield, 3 wines
+- Fairy ring to Isle of Sould with code BJP
+- Enter the dungeon southeast
+- Kill a lesser demon north (med task)
+- Go to the south side of the dungeon and picklock the chest until a dark key is received (drop rate: 1/200, will take 12 min on average). Keep 1-2 bird snare, herbs, coins, feathers, runes, 1 mithril axe, 1 mithril pickaxe, medium clues. Might be able to kill blue dragons while opening the chest. Complete the following tasks:
+	- Kill at least 1 blue dragon and bury the bones (med task)
+	- Clean a Grimy Guam (easy task)
+	- Achieve Your First Level 50 (med task)
+	- Achieve Your First Level 60 (med task)
+- Go out of the dungeon and to the north part of the island, pick 1 flax
+- Take the bird snare west if you didn't get it from the chest
+- Catch a copper longtail southeast (easy task)
+- Go to the northwest part of the island, kill 5 rabbits (med task, unsure if rabbits = bunnies, might not work)
+- Go down the ladder on the island north and open the dark chest (med task)
+- After leaving, Restore 5 Prayer Points at an Altar (easy task)
+
+Back in Lumbridge:
+- Dye a cape orange (easy task)
+- Churn some butter (med task) (req 38 cooking)
+
+Back in Varrock:
+- Slash a web in varrock sewers (easy task)
+- Take red spider eggs while here
+
+-----
+
+At 3rd relic:
+- Kill goblins until chefs hat, bank 25 bones for demon slayer
+- Complete Demon Slayer (med task)
+- Enter the Cooks' Guild (med task)
+- Make a pie for Romily (med task)
+- Kill abyssal leeches until water + earth tally or elemental tally, all 4 pouches
+
+Other tasks:
+- Create an Antipoison (easy task)
+- Equip a Spiny Helmet (easy task)
+- Complete 1 Slayer Task (med task)
+- Equip some Steel armour (med task)
+- Equip some Black armour (med task)
+- Equip a Full Mithril Set (med task)
+- Equip a Full Adamant Set (med task)
+- Equip a Willow Shield (med task)
+- 1 Easy Clue Scroll (med task)
+- 5 Collection log slots (med task)
+- 15 Collection log slots (med task)
+- 25 Easy Clue Scrolls (maybe) (med task)
+- Fill 5 Easy Clue Collection Log Slots (med task)
+- Fill 20 Easy Clue Collection Log Slots (med task)
+- Gain 10 Unique Items From Easy Clues (med task)
+- Gain a Unique Item From an Easy Clue (med task)
+- Burn Some Coloured Logs (med task)
+- Eat some Purple Sweets (med task)
+- Locate a Runecrafting Altar With a Talisman (med task)
+- Complete the Easy Lumbridge & Draynor Diary (med task)
+- Complete the Easy Varrock Diary (med task)
+
+At 3rd region:
+- Craft a Leather Body (easy task)
+- Read a prayer book near a lectern (med task)
+- Complete 50 Laps of a Rooftop Agility Course (med task)
+- Catch a Swamp Lizard or Salamander (med task)
+- Complete the Medium Lumbridge & Draynor Diary (med task)
+- Complete the Medium Varrock Diary (med task)
+
+At 4th relic:
+- Equip a Studded Body and Chaps (easy task)
+- Reach Combat Level 25 (easy task)
+- Equip a Maple Shortbow (med task)
+- Buy a Snapdragon From Pirate Jackie the Fruit (med task)
+- Use the Protect from Melee Prayer (med task)
+- Equip a Toktz-Ket-Xil (med task)
+- Equip a Toktz-Xil-Ak (med task)
+- Equip a Toktz-Xil-Ek (med task)
+- Equip an Obsidian Cape (med task)
+- Craft 50 Water Runes (med task)
+- Equip a Dorgeshuun Crossbow (med task)
+- Use a Digsite Pendant to Teleport to Fossil Island (med task)
+- Land a hoop on a stick (med task)
+- Make oak altar to train prayer with coins
+- Superhuman Strength and Improved Reflexes (easy task)
+
+Scurrius:
+- Defeat Scurrius (med task)
+- Equip a Rat Bone Weapon (med task)
+- Defeat Scurrius 10 times (med task)
+- Defeat Scurrius 25 times (med task)
+- Scurrius Combat Achievements (hard task)
+- Reach Combat Level 50 (med task)
+- Reach Combat Level 75 (med task)
+
+At 4th region:
+- Reach a Prayer Bonus of 15 (med task)
+- Complete Sheep Shearer (med task)
+- Have Ned make you some rope (easy task)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----
+
+Relic 2:
+Achieve Your First Level 70 (hard task)
+Steal From a Gem Stall (hard task)
+
+Relic 3:
+Catch 50 Grey Chinchompas (hard task)
+
+Relic 4:
+Cast High Level Alchemy (med task)
+Cast a Blast Spell (med task)
+Build a Gilded Altar (hard task)
+Cast a Wave Spell (hard task)
+Complete 50 Mahogany homes contracts (hard task)
+Complete a Mahogany homes expert contract (hard task)
+Reach Combat Level 100 (hard task)
+Restore 75 Prayer Points at an Altar (hard task)
+Find a Gout Tuber (hard task)
+
+Relic 5:
+Pay Saniboch for Permanent Access (elite task)
+Purchase an Onyx in Mor Ul Rek (elite task)
+Reach Level 99 Prayer (elite task)
+Fill a Medium S.T.A.S.H. Unit (med task)
+Fill a Hard S.T.A.S.H. Unit (hard task)
+Reach Level 99 Construction (elite task)
+Build a Demonic Throne (master task)
+Obtain 25 Million Construction XP (elite task)
+Obtain 35 Million Construction XP (elite task)
+Obtain 50 Million Construction XP (elite task)
+Equip a Full Rune Set (hard task)
+Equip a Full Obsidian Armour Set (hard task)
+Catch 500 Chinchompas (elite task)
+Equip a Zombie Axe (hard task)
+Equip a Dragon Weapon (hard task) (buy a dragon dagger)
+Defeat a TzHaar (med task)
+Survive a Hit From TzTok-Jad Without Prayer (hard task)
+Equip a Fire Cape (elite task)
+Complete Tzhaar-Ket-Rak's first challenge (hard task)
+Complete Tzhaar-Ket-Rak's second challenge (hard task)
+Complete Tzhaar-Ket-Rak's third challenge (hard task)
+Complete Tzhaar-Ket-Rak's fourth challenge (elite task)
+
+Idk when:
+Catch 100 Shark (hard task)
+Cook 100 Sharks (hard task)
+
+-----
+
+Varlamore:
+Pet Renu (easy task)
+Travel using the Quetzal Transport System (easy task)
+Drink from a bird bath (easy task)
+Pet Xolo in Civitas (easy task)
+Pick some Sweetcorn from a Field (easy task)
+Complete a Ribbiting Tale (hard task)
+Kill a Guard in Varlamore underground (easy task)
+Steal a House Key (med task)
+Steal 15 House Keys (med task)
+Steal from the Fortis Spice Stall (med task) (65 thieving)
+Fish a House Key (med task)
+Give Oli some Stew (easy task)
+Pay an Urchin for Information (med task)
+Steal 25 Valuables (med task)
+Steal 100 Valuables (med task)
+Steal a Blessed Bone Statuette (hard task)
+Charter a Ship From Sunset Coast to Civitas (easy task)
+Kill a Buffalo (easy task)
+Milk a Buffalo (easy task)
+Shear an Alpaca (easy task)
+Kill a Dire Wolf (med task)
+Kill an Icefiend in Varlamore (easy task)
+Activate the Statue of Ates (med task)
+Mine 250 Blessed Bone Shards (med task) (41 mining)
+Mine a Calcified Deposit (med task) (41 mining)
+Teleport to Cam Torum using a Calcified Moth (med task)
+Teleport to Civitas illa Fortis (med task)
+
+Relic 4:
+Kill 10 blue dragons in northen Varlamore (combat mastery)
+Beat Jacky Jester (hard task)
+
+Relic 5:
+Kill 10 Frost Crabs (med task)
+1 Amoxliatl Kill (med task)
+Kill Amoxliatl in less than 1 minute (combat achievement, hard task)
+Equip Pendant of Ates (med task)
+Complete Meat and Greet (med task)
+Complete Wave 1 of Fortis Colosseum (med task)
+Achieve Your First Level 80 (hard task) (thieving wealthy citizens or knights)
+Blow 100 Light Orbs (hard task)
+
+Hunter:
+Complete a Hunter Rumour (med task) (57 hunter)
+Open an Adept Hunter's Loot Sack (med task)
+Complete 10 Hunter Rumours (med task)
+Complete 25 Hunter Rumours (med task)
+Equip full Graahk, Larupia or Kyatt (med task)
+Build a Quetzal Landing Site (med task)
+Create a Quetzal Whistle (med task)
+Give a Dwarf Redberry Antelope (med task)
+
+Much hunter:
+Complete 50 Hunter Rumours (hard task)
+Equip full Guild Hunter Outfit (hard task)
+Obtain the Huntsman's Kit (hard task)
+
+Aldarin:
+Fill a Grape Barrel for the Foreman (med task)
+Investigate Meztlan (med task)
+Obtain a Cake from a Nest (med task) (req addy scim)
+Complete Death on the Isle (hard task)
+Teleport to the Fortis Colosseum (med task)
+
+Fix order:
+Craft 100 Unpowered Orbs (hard task)
+Ferment 100 Jugs of Wine (hard task)
+
+-----
+
+## Morytania:
+
+Canifis:
+Complete the Canifis Agility Course (med task)
+Defeat a Werewolf in Morytania (easy task)
+Catch a Swamp Lizard in Morytania (med task)
+
+Swamp:
+Complete an Easy Temple Trek (easy task)
+Complete a Medium Temple Trek (med task)
+Complete a Hard Temple Trek (med task)
+Craft a Snelm (easy task)
+Feed a ghast some sweets (easy task)
+Complete Haunted Mine (hard task)
+Equip a Salve Amulet (e) (med task)
+
+Port phasmatys:
+Get an ectophial for teles
+Visit Port Phasmatys (easy task)
+Smelt a Steel Bar in Port Phasmatys (med task)
+Worship the Ectofuntus (med task)
+Unlock permanent boat travel with Andras (hard task)
+
+Slepe:
+Telegrab a Bloody bracer (med task)
+
+Mos Le'Harmless:
+Visit Mos Le'Harmless (easy task)
+Visit Harmony Island (easy task)
+
+Shades of morthon:
+Achieve 100% Shades of Mort'Ton Sanctity (med task)
+Burn 20 Pyre Logs (med task)
+Open a Bronze Chest (easy task)
+Cook 20 Redberry Pies (hard task)
+Cook 100 pies (hard task)
+Open a Black Chest (med task)
+Defeat a Fiyr Shade (med task) (65 firemaking)
+
+Barrows:
+Loot a Barrows Chest (med task)
+Equip a Piece of any Barrows Armour Set (med task)
+
+Sins of the father (later):
+Complete Sins of the Father (hard task)
+Equip a full set of Vyre Noble (med task)
+Pet Frank (med task)
+Defeat a Vyrewatch Sentinel (med task)
+Chop 100 Blisterwood Logs (med task)
+Burn 20 Blisterwood Logs (hard task)
+Pickpocket a Vyre 50 Times (hard task)
+Cook 20 Sharks in Darkmeyer (hard task)
+Craft a Rune Using Daeyalt Essence (med task)
+Create the long rope shortcut in Darkmeyer (med task)
+Floor 1 of the Hallowed Sepulchre (med task)
+Floor 2 of the Hallowed Sepulchre (med task)
+Floor 3 of the Hallowed Sepulchre (med task)
+Purchase a Reward From the Hallowed Sepulchre (med task)
+
+Slayer:
+Defeat a Gargoyle in Morytania (med task)
+Defeat an Abyssal Demon in Morytania (med task)
+
+-----
+
+## Fremennik:
+
+Early:
+Kill a Rooster (easy task)
+Steal a Fish (med task)
+Loot a Lyre (med task)
+Fill up 20 buckets of sand in Rellekka (med task)
+Steal a Cow bell in Rellekka (med task)
+Defeat a Rock Crab in the Fremennik Province (easy task)
+Cut the Swaying Tree (easy task)
+Complete the Penguin Agility Course (med task)
+
+Lighthouse:
+Equip a Damaged God book (med task)
+Defeat a Dagannoth in the Fremennik Province (med task)
+Kill 8 penguins within 5 seconds (med task)
+
+Kingdom:
+Complete Throne of Miscellania (med task)
+Complete Royal Trouble (med task)
+Collect Miscellania Resources at Full Approval (hard task)
+
+Diary:
+Complete the Easy Fremennik Diary (med task)
+Complete the Medium Fremennik Diary (med task)
+Deposit an Item Using Peer the Seer (med task)
+
+Neitiznot:
+Chop down an arctic pine tree (54 woodcutting)
+Kill a Yak (easy task) (get 3 yak hides for armour)
+Use the Bank on Neitiznot (easy task)
+Equip a Helm of Neitiznot (med task)
+Equip a full set of Yakhide Armour (med task)
+
+Jatizo:
+Use the Bank on Jatizso (easy task)
+Buy bunch of gold ores while here for smithing
+
+Lunar isle:
+Use the Bank on Lunar Isle (easy task)
+Kill a Suqah (med task)
+Switch to the Lunar Spellbook (easy task)
+Cast Moonclan Teleport (hard task)
+
+Keldagrim:
+Steal a Wooden Stock (med task)
+Chisel (med task)
+
+Blast furnace:
+Blast Furnace 100 Mithril Bars (hard task)
+Unlock Free Use of the Blast Furnace (med task)
+Blast Furnace 100 Runite Bars (elite task)
+
+Hunter:
+Catch a Cerulean Twitch (easy task)
+Catch a Polar Kebbit (easy task)
+Catch a Sabre-toothed Kebbit (med task)
+Catch a Sapphire Glacialis (med task)
+Catch a Snowy Knight (med task)
+Trap a Sabre-toothed Kyatt (hard task) (55 hunter)
+
+Slayer:
+Kill a Brine Rat (med task)
+Equip a Brine Sabre (hard task)
+Defeat a Cockatrice in the Fremennik Province (easy task)
+Defeat a Pyrefiend in the Fremennik Province (easy task)
+Defeat a Jelly in the Fremennik Province (med task)
+Defeat a Kurask in the Fremennik Province (med task)
+Defeat a Troll in the Fremennik Province (med task)
+Defeat a Turoth in the Fremennik Province (med task)
+Equip a Leaf-Bladed Battleaxe (hard)
+
+Waterbirth dungeon:
+Pick up Snapegrass (easy task)
+Kill a Rock Lobster (hard task)
+Kill a Wallasalki (med task)
+
+DKs:
+Defeat the Dagannoth Kings Without Leaving (hard task)
+Equip a Mud Battlestaff (hard task)
+Equip a Seer's Ring (hard task)
+Equip a Seercull (hard task)
+Equip an Archer's Ring (hard task)
+Equip a Warrior Ring (hard task)
+Equip a Berserker Ring (hard task)
+Use the Special Attack of a Dragon Axe (med task)
+Dagannoth Kings Combat Achievements (elite task)
+Defeat Each Dagannoth King 50 Times (hard task)
+Kill 1 unique Echo Boss (hard task)
